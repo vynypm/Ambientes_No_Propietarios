@@ -1,0 +1,100 @@
+*{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:#ccc;
+}
+
+section#contenedor{
+	/*background:#fff;*/
+	height: 1565px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+		header {
+			background: #fff;
+			height: 65px;
+			width: 850;
+		}
+
+				header #logo{
+					background: #fff;
+					height: 65px;
+					width: 300px;
+					display: inline-block;
+					vertical-align: top;
+				}
+
+				header #menu{
+					background: #fff;
+					height: 65px;
+					width: 400px;
+					display: inline-block;
+					vertical-align: top;
+				}
+
+						ul{
+							list-style: none;
+						}
+
+						.nav li{
+							display: block;
+							text-decoration: none;
+							padding: 22px 10px;	
+						}
+
+						.nav > li{
+							float: left;
+						}
+
+				header #search{
+					background: #fff;
+					height: 65px;
+					width: 140px;
+					display: inline-block;
+					vertical-align: top;
+				}
+
+		section#banner{
+			/*background-image: url("Imagenes/ban.png");*/
+			height: 300px;
+			width: 850px;
+		}
+
+		section#noticias{
+			background: #fff;
+			height: 200px;
+			width: 850;
+		}
+
+		section#portafolio{
+			background: #6E6E6E;
+			height: 300px;
+			width: 850;
+		}
+
+		section#servicios{
+			background: #fff;
+			height: 200px;
+			width: 850;
+		}
+
+		section#testimonios{
+			background: #E9E9E7;
+			height: 200px;
+			width: 850;
+		}
+
+		footer{
+			background: #047081;
+			height: 300px;
+			width: 850;
+		}
+
+
+		
