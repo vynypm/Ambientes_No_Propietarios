@@ -1,0 +1,38 @@
+#menu{
+	height: 50px;
+	background-color: red;
+}
+
+#header{
+	height: 150px;
+	background-color: #CCCCCC;
+}
+
+#contenido{
+	height: 300px;
+}
+
+#izquierda{
+	background-color: yellow;
+	height: 100%;
+}
+
+#centro{
+	background-color: green;
+	height: 100%;
+}
+
+#derecha{
+	background-color: black;
+	height: 100%;
+}
+
+#footer{
+	height: 80px;
+	border: 1px solid black;
+}
+
+#subcajas{
+	background-color: gray;
+	border: 1px solid blue;
+}
