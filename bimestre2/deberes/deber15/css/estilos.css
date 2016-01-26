@@ -1,0 +1,74 @@
+#usuario, .container {
+	background-color: white;
+	height: 350px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #3b5998;
+}
+select {
+	display: inline-block;
+	width:140px;
+	text-align: right;
+	/*padding: .1em;*/
+	/*color: #A9A9A9;
+	border: 1px solid #A9A9A9;
+	font-size: 80%;*/
+	/*vertical-align: middle;*/
+}
+label {
+	display: inline-block;
+	width:140px;
+	text-align: right;
+	padding: .2em;
+	color: #3b5998;
+	border: 1px solid white;
+	font-size: 110%;
+	vertical-align: middle;
+}
+#btn-enviar {
+	background: #6495ED;
+	color: white;
+	width: 120px;
+	padding: .2em;
+	border: 1px solid #6495ED;
+	border-collapse: collapse;
+	font-size:medium;
+}
+h2{
+	text-align: center;
+}
+
+#form { 
+
+width: 500px;
+height: 300px;
+ 
+  position: absolute;
+  top: 10%;
+  left:35%;
+
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-right: inherit;
+    margin-left: auto;
+}
+
+
+#usuarios {
+	position: relative;
+	top:300px;
+	left:30%;
+	width: 500px;
+	height: 300px;
+}
+#mensaje
+{
+	padding-bottom:2px;
+	width: 1317px;
+	height: 50px;
+
+}
